@@ -30,7 +30,7 @@ To set up the project environment, follow these steps:
 
 ```bash
 git clone https://github.com/anirxdh/CSCI5523-001-_Datamining.git
-cd aCSCI5523-001-_Datamining
+cd CSCI5523-001-_Datamining
 pip install -r requirements.txt
 ```
 
