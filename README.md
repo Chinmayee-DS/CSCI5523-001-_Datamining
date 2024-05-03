@@ -29,7 +29,7 @@ We utilized the "ALF Dataset" from Kaggle, which contains numerous health indica
 To set up the project environment, follow these steps:
 
 ```bash
-git clone https://github.com/yourusername/alf-prediction-project.git
+git clone https://github.com/anirxdh/CSCI5523-001-_Datamining.git
 cd alf-prediction-project
 pip install -r requirements.txt
 ```
