@@ -30,21 +30,16 @@ To set up the project environment, follow these steps:
 
 ```bash
 git clone https://github.com/anirxdh/CSCI5523-001-_Datamining.git
-cd alf-prediction-project
+cd aCSCI5523-001-_Datamining
 pip install -r requirements.txt
 ```
 
 ## Usage
 Execute the main analysis script or interact with the Jupyter notebook:
 
-```bash
-python main.py
-```
-
-or
 
 ```bash
-jupyter notebook analysis.ipynb
+jupyter ALF_data_mining.ipynb
 ```
 
 ## Contributing
